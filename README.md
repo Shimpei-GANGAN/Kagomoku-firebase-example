@@ -26,6 +26,7 @@ $ sh docker.sh start
 ```
 # on Docker
 
+$ npm install
 $ npm run dev
 ```
 
