@@ -63,6 +63,7 @@ $ sh docker.sh start
 ```
 
 ### check with localhost
+<code>npm install</code>で失敗する場合は<code>rm -rf src</code>実行後、<a href="#create-Vue.js-App">へ</a>
 
 ```
 # on Docker
